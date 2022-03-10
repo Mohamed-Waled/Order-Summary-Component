@@ -21,7 +21,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [Solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://mohamed-waled.github.io/Order-Summary-Component/)
 
 ## My process
 
