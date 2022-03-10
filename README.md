@@ -20,8 +20,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Solution URL here]()
-- Live Site URL: [live site URL here](https://mohamed-waled.github.io/Order-Summary-Component/)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/order-summary-card-using-simple-html-and-css-jIRmQIkyr)
+- Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Order-Summary-Component/)
 
 ## My process
 
