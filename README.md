@@ -15,8 +15,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![](./images/Screenshot 2022-03-10 at 13-56-23 Frontend Mentor Order summary card.png)
-![](./images/Screenshot 2022-03-10 at 13-57-01 Frontend Mentor Order summary card.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/Order-Summary-Component/main/images/Screenshot%202022-03-10%20at%2013-56-23%20Frontend%20Mentor%20Order%20summary%20card.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/Order-Summary-Component/main/images/Screenshot%202022-03-10%20at%2013-57-01%20Frontend%20Mentor%20Order%20summary%20card.png)
 
 ### Links
 
