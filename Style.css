@@ -138,3 +138,27 @@ footer {
 footer a { 
     color: hsl(228, 45%, 44%); 
 }
+
+@media (max-width:375px) {
+    .background {
+        background-image:url(https://raw.githubusercontent.com/Mohamed-Waled/Order-Summary-Component/66901e06d58055fc1cbd5bb7196ff53434092919/images/pattern-background-mobile.svg);
+    }
+    .container {
+        height: 98vh;
+    }
+    .box {
+        width: 325px;
+    }
+    .selected_plan {
+        width: 295px;
+    }
+    .selected_plan .text-2 h2 {
+        font-size: 15px;
+    }
+    .selected_plan a {
+        margin-left: 40px;
+    }
+    button {
+        width: 290px;
+    }
+}
